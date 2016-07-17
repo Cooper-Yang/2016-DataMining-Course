@@ -1,0 +1,15 @@
+#Visual Studio Code config file
+.vscode/
+browse.VC.db
+
+#Eclipse config file
+.settings/
+.project
+.pydevproject
+
+#Pycharm config file
+.idea/
+
+.git/
+
+*.pyc
